@@ -1,5 +1,3 @@
-package g58137.dev1.td07;
-
 import java.util.Scanner;
 
 /**
